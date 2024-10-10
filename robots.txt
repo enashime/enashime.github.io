@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enashime.github.io/sitemap.html.gz
+Sitemap: https://enashime.github.io/app/sitemap.html.gz
+Sitemap: https://enashime.github.io/assets/sitemap.html.gz
+Sitemap: https://enashime.github.io/css/sitemap.html.gz
+Sitemap: https://enashime.github.io/includes/sitemap.html.gz
+Sitemap: https://enashime.github.io/item/sitemap.html.gz
+Sitemap: https://enashime.github.io/src/sitemap.html.gz
